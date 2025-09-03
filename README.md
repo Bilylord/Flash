@@ -3,14 +3,13 @@ Flash_
  Lab 1 : Création d'une Application de Cartes Flash
  
  Fonctionnalités
-
-- Créer un nouveau projet dans Android Studio
--  Toggle bidirectionnel - Basculer entre question ↔ réponse en touchant
-- Style différencié - Couleurs/design distincts pour question vs réponse
-- Choix multiples - 3-4 options de réponse sélectionnables sous la carte
-- Feedback coloré - Vert pour bonne réponse, rouge pour mauvaise réponse
-- Customisation avancée - Animations, polices, bordures personnalisées
-- Bouton masquer/afficher - Toggle pour cacher les choix de réponses
+- [x] Créer un nouveau projet dans Android Studio
+- [x] Toggle bidirectionnel - Basculer entre question ↔ réponse en touchant
+- [x] Style différencié - Couleurs/design distincts pour question vs réponse
+- [x] Choix multiples - 3-4 options de réponse sélectionnables sous la carte
+- [x] Feedback coloré - Vert pour bonne réponse, rouge pour mauvaise réponse
+- [x] Customisation avancée - Animations, polices, bordures personnalisées
+- [x] Bouton masquer/afficher - Toggle pour cacher les choix de réponses
 
  Comment ça marche
 
